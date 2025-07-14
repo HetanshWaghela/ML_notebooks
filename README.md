@@ -1,9 +1,8 @@
 # ML_notebooks
 
 
-# ML Notebook
 
-Welcome to **ML Notebook** — a curated collection of Jupyter notebooks demonstrating the implementation, intuition, and evaluation of various **Machine Learning algorithms**.  
+Welcome to **ML_notebooks** — a curated collection of Jupyter notebooks demonstrating the implementation, intuition, and evaluation of various **Machine Learning algorithms**.  
 This repository is my personal learning journal and aims to serve as a reference for anyone learning ML with hands-on code examples.
 
 
