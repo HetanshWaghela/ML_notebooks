@@ -1,22 +1,30 @@
-# 📘 Regularized Regression
+# 📘 Regression
 
-This folder contains a comprehensive notebook demonstrating **Linear Regression** and its regularized variants:
+This folder contains a comprehensive collection of notebooks demonstrating various regression techniques, including **Linear Regression**, **Polynomial Regression**, and regularized variants:
+
 - **Ridge Regression**
 - **Lasso Regression**
 - **ElasticNet Regression**
-
-All models are implemented from scratch using `scikit-learn` and compared using a common dataset.
+- **Polynomial Regression** *(New)*
 
 ## 🧠 Algorithms Implemented
 
-| Algorithm        | Description |
-|------------------|-------------|
-| **Linear Regression** | Standard regression without regularization |
-| **Ridge Regression** | L2 regularization to penalize large coefficients |
-| **Lasso Regression** | L1 regularization to perform feature selection |
-| **ElasticNet** | Combines L1 and L2 regularization for balance |
+| Algorithm               | Description |
+|-------------------------|-------------|
+| **Linear Regression**   | Standard regression without regularization |
+| **Ridge Regression**    | L2 regularization to penalize large coefficients |
+| **Lasso Regression**    | L1 regularization to perform feature selection |
+| **ElasticNet**          | Combines L1 and L2 regularization for balance |
+| **Polynomial Regression** | Extends linear model by considering polynomial features |
 
----
+
+## 📂 Files Included
+
+- `regularized_regression.ipynb` – Main notebook covering linear, ridge, lasso, and elastic net regressions  
+- `polynomial_regression.ipynb` – New notebook for polynomial regression  
+- `enhanced_car_efficiency_data.csv` – Dataset used in the polynomial regression notebook  
+
+
 
 ## 🔍 Workflow
 
@@ -33,3 +41,4 @@ All models are implemented from scratch using `scikit-learn` and compared using 
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
