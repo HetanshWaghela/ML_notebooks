@@ -11,7 +11,7 @@ This repository is my personal learning journal and aims to serve as a reference
 - [x] Ridge Regression  
 - [x] Lasso Regression  
 - [x] ElasticNet  
-- [ ] Polynomial Regression  
+- [x] Polynomial Regression  
 - [ ] Decision Tree Regressor  
 - [ ] Random Forest Regressor  
 
