@@ -12,8 +12,8 @@ This repository is my personal learning journal and aims to serve as a reference
 - [x] Lasso Regression  
 - [x] ElasticNet  
 - [x] Polynomial Regression  
-- [ ] Decision Tree Regressor  
-- [ ] Random Forest Regressor  
+- [X] Decision Tree Regressor  
+- [X] Random Forest Regressor  
 
 ### Classification *(Coming Soon)*
 - [ ] Logistic Regression  
